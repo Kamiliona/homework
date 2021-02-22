@@ -1,0 +1,1 @@
+number_of_bone = input("On average, how many muscles are attatched to an adult human's sekleton")
